@@ -1,4 +1,4 @@
-# vuex-3x
+# vuex-3.x
 
 ## Project setup
 ```
